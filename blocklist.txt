@@ -194,11 +194,48 @@
 185.234.73.58  	#APT28
 185.234.73.61  	#APT28
 185.234.73.62  	#APT28
-160.119.76.55   #INCIDENT TAQA_46406
+160.119.76.55    #INCIDENT TAQA_46406
 143.198.150.150  #NCIDENT TAQA_46443
 185.224.128.136  #TAQA_46443
 143.198.150.150  #INCIDENT TAQA_46443
 185.224.128.136  #INCIDENT TAQA_46443
+104.225.129.171 # CastleRAT  malware
+38.248.95.118	  # CastleRAT  malware
+139.60.162.100	# CastleRAT  malware
+45.11.181.59  	# CastleRAT  malware
+144.124.225.129	# CastleRAT  malware
+45.11.181.63	  # CastleRAT  malware
+144.172.101.142	# CastleRAT  malware
+45.153.34.41	  # CastleRAT  malware
+144.208.126.50	# CastleRAT  malware
+45.156.87.76	  # CastleRAT  malware
+162.33.177.87  	# CastleRAT  malware
+5.35.44.176	    # CastleRAT  malware
+170.130.55.115	# CastleRAT  malware
+5.9.230.12    	# CastleRAT  malware
+172.86.89.253  	# CastleRAT  malware
+64.23.145.78	  # CastleRAT  malware
+173.232.146.55	# CastleRAT  malware
+67.213.208.9	  # CastleRAT  malware
+173.239.211.60	# CastleRAT  malware
+68.227.235.200	# CastleRAT  malware
+185.158.248.31	# CastleRAT  malware
+77.238.241.203	# CastleRAT  malware
+192.210.150.228	# CastleRAT  malware
+89.251.0.115	  # CastleRAT  malware
+193.143.1.41	  # CastleRAT  malware
+89.251.0.95	    # CastleRAT  malware
+193.24.211.84  	# CastleRAT  malware
+91.215.85.6    	# CastleRAT  malware
+194.180.191.13	# CastleRAT  malware
+94.26.90.106	  # CastleRAT  malware
+194.76.227.242	# CastleRAT  malware
+94.26.90.161	  # CastleRAT  malware
+212.34.147.218	# CastleRAT  malware
+94.26.90.163	  # CastleRAT  malware
+23.94.145.120	  # CastleRAT  malware
+94.26.90.64    	# CastleRAT  malware
+23.94.252.73	  # CastleRAT  malware
 
 
 
