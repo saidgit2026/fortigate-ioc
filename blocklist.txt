@@ -236,6 +236,16 @@
 23.94.145.120	  # CastleRAT  malware
 94.26.90.64    	# CastleRAT  malware
 23.94.252.73	  # CastleRAT  malware
-
+87.106.76.212   # NetWire  malware
+134.19.176.119  # NetWire  malware
+188.166.230.26 # NetWire  malware
+45.64.53.236   # NetWire  malware
+62.234.24.30   # NetWire  malware
+185.244.31.215 # NetWire  malware
+185.163.100.31 # NetWire  malware
+194.5.98.183   # NetWire  malware
+167.179.102.70 # NetWire  malware
+185.121.166.105 # NetWire  malware
+79.134.225.73   # NetWire  malware
 
 
