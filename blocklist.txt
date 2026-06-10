@@ -247,5 +247,18 @@
 167.179.102.70 # NetWire  malware
 185.121.166.105 # NetWire  malware
 79.134.225.73   # NetWire  malware
-
+46.148.114.177 # BlueFox Stealer malware
+94.131.107.223 # BlueFox Stealer malware
+193.106.191.130 # BlueFox Stealer malware
+31.41.244.152 # BlueFox Stealer malware
+45.8.147.31 # BlueFox Stealer malware
+45.8.147.200 # BlueFox Stealer malware
+87.248.202.1 # BlueFox Stealer malware
+45.8.147.121 # BlueFox Stealer malware
+212.118.39.120 # BlueFox Stealer malware
+45.133.216.192 # BlueFox Stealer malware
+45.8.147.133 # BlueFox Stealer malware
+45.89.54.50 # BlueFox Stealer malware
+91.241.19.49 # BlueFox Stealer malware
+79.137.198.63 # BlueFox Stealer malware
 
