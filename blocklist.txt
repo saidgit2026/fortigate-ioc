@@ -268,4 +268,4 @@
 172.67.190.135 # SalatStealer malware
 2.59.219.233 # SalatStealer malware
 185.213.240.179 # SalatStealer malware 
-
+50.6.228.159 # ip USA -- INCIDENT TAQA_48222
