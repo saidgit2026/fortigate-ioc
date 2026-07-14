@@ -277,5 +277,24 @@
 187.124.112.214 # BlankGrabber malware
 62.60.226.159	# BlankGrabber malware
 82.47.101.161  # BlankGrabber malware
+3.15.180.31 # INCIDENT TAQA_48481
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
