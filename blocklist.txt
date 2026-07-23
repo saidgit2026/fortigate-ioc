@@ -279,7 +279,10 @@
 82.47.101.161  # BlankGrabber malware
 3.15.180.31 # INCIDENT TAQA_48481
 3.138.190.72 # INCIDENT TAQA_48572
-
+193.38.55.131 # KPot infostealer
+193.38.55.4 # KPot infostealer
+213.226.100.140 # KPot infostealer
+92.63.192.217  # KPot infostealer
 
 
 
