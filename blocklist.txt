@@ -283,7 +283,16 @@
 193.38.55.4 # KPot infostealer
 213.226.100.140 # KPot infostealer
 92.63.192.217  # KPot infostealer
-
+87.120.84.133 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
+31.57.38.244 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
+80.76.49.240 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
+80.76.49.106 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
+80.76.49.77 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
+118.107.32.146 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
+118.107.32.178 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
+118.107.32.179 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
+158.94.208.226 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
+193.202.84.99 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
 
 
 
