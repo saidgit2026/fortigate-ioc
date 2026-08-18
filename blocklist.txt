@@ -293,7 +293,14 @@
 118.107.32.179 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
 158.94.208.226 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
 193.202.84.99 # Malware "SantaStealer" (Réf. TSO-CTI-2026-0728)
-
+45.9.168.230	#Malware “Agent Tesla”
+195.250.27.46	#Malware “Agent Tesla”
+185.29.9.108	#Malware “Agent Tesla”
+107.172.172.254	#Malware “Agent Tesla”
+203.99.148.83	#Malware “Agent Tesla”
+185.29.10.11	#Malware “Agent Tesla”
+68.65.123.172	#Malware “Agent Tesla”
+91.92.47.228	#Malware “Agent Tesla”
 
 
 
