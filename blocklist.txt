@@ -302,6 +302,14 @@
 68.65.123.172	#Malware “Agent Tesla”
 91.92.47.228	#Malware “Agent Tesla”
 139.162.225.221 #INCIDENT TAQA_49171
+45.9.168.230  #“ Ficker Stealer ” Infostealer
+195.250.27.46 #“ Ficker Stealer ” Infostealer
+185.29.9.108 #“ Ficker Stealer ” Infostealer
+107.172.172.254 #“ Ficker Stealer ” Infostealer
+203.99.148.83 #“ Ficker Stealer ” Infostealer
+185.29.10.11 #“ Ficker Stealer ” Infostealer
+68.65.123.172 #“ Ficker Stealer ” Infostealer
+91.92.47.228 #“ Ficker Stealer ” Infostealer
 
 
 
