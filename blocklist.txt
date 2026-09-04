@@ -310,7 +310,14 @@
 185.29.10.11 #“ Ficker Stealer ” Infostealer
 68.65.123.172 #“ Ficker Stealer ” Infostealer
 91.92.47.228 #“ Ficker Stealer ” Infostealer
-
+45.9.168.230 #ioc260904dgnssi Ficker Stealer
+195.250.27.46 #ioc260904dgnssi Ficker Stealer
+185.29.9.108 #ioc260904dgnssi Ficker Stealer
+107.172.172.254 #ioc260904dgnssi Ficker Stealer
+203.99.148.83 #ioc260904dgnssi Ficker Stealer
+185.29.10.11 #ioc260904dgnssi Ficker Stealer
+68.65.123.172 #ioc260904dgnssi Ficker Stealer
+91.92.47.228 #ioc260904dgnssi Ficker Stealer
 
 
 
